@@ -1,0 +1,9 @@
+export const INIT_NEW_CAPTCHA = "INIT_NEW_CAPTCHA";
+export const CHALLENGE_CAPTCHA = "CHALLENGE_CAPTCHA";
+export const TOGGLE_LOADING = "TOGGLE_LOADING";
+export const LOGIN = "LOGIN";
+export const LOGOUT = "LOGOUT";
+export const SET_USER_INFO = "SET_USER_INFO";
+export const ADD_USER = "ADD_USER";
+export const ADD_TOPIC = "ADD_TOPIC";
+export const ADD_COMMENT = "ADD_COMMENT";
