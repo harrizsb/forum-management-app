@@ -13,7 +13,7 @@ export default ({ children, triggerChanges }) => {
     if (username && password) {
       triggerChanges({ username, password });
     }
-  }, [username, password]);
+  }, [username, password, triggerChanges]);
 
   return (
     <form
