@@ -1,4 +1,4 @@
-# Project Title
+# Forum App
 
 This is an example of forum app created with redux and react hooks that will use redux as in-memory database.
 
